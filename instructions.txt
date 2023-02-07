@@ -1,0 +1,5 @@
+before running the application follow these steps(or run these commands):
+-npm i json-server
+-json-server -p 8000 --watch db.json
+
+now you can run react application
